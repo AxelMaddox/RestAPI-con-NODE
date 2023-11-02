@@ -1,0 +1,35 @@
+{
+  "authores": [
+    {
+      "id": 1,
+      "nombre": "Santiago Carlosama"
+    },
+    {
+      "id": 2,
+      "nombre": "UAO"
+    },
+    {
+      "id": 3,
+      "nombre": "Heidy Aguado"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "Titulo": "Test",
+      "autor": 1
+    },
+    {
+      "id": 2,
+      "Titulo": "Servicios Telematicos",
+      "autor": 2
+    }
+  ],
+  "comentarios": [
+    {
+      "id": 1,
+      "mensaje": "Por favor funciona",
+      "postId": 2
+    }
+  ]
+}
